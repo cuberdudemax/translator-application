@@ -1,2 +1,2 @@
 # translator-application
-simple translator application
+Simple translator application build on JavaScript 
